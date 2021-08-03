@@ -1,0 +1,19 @@
+{
+  "name": "effective-typescript",
+  "version": "1.0.0",
+  "description": "이펙티브 타입스크립트 책 정리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sooster910/EffectiveTypeScript.git"
+  },
+  "author": "hyunsu joo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sooster910/EffectiveTypeScript/issues"
+  },
+  "homepage": "https://github.com/sooster910/EffectiveTypeScript#readme"
+}
