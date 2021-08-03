@@ -10,4 +10,4 @@
 
 ## 목차
 ---
-- [아이템2: 타입스크립트 설정 이해하기  ]
+- 아이템2: 타입스크립트 설정 이해하기 [🧐 미리보기](https://github.com/sooster910/EffectiveTypeScript/tree/main/src/item02)
