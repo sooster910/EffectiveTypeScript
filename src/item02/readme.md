@@ -5,6 +5,13 @@
  
 아마도 타입을 지정하지 않으면 암묵적으로 any로 지정하게 되는데, noImplicitAny이니 암묵적인 지정을 하지 않겠다 라고 하니 반대로 생각하면, 사용자가 지정을 해줘라이런 부분에 대한 체킹을 제어하기 위한 것인 것 같다.   
  
+```typescript
+function add(a,b){
+    return a+b
+}
+add(10,undefined)
+```
+
 false 일 경우, 타입스크립트가 any타입으로 추론한다. 
 `Parameter 'a' implicitly has an 'any' type, but a better type may be inferred from usage.ts(7044)
 (parameter) a: any`
