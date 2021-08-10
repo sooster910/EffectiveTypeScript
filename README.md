@@ -11,3 +11,4 @@
 ## 목차
 ---
 - 아이템2: 타입스크립트 설정 이해하기 [🧐 미리보기](https://github.com/sooster910/EffectiveTypeScript/tree/main/src/item02)
+- 아이템3: 코드 생성과 타입이 관계없음을 이해하기 [🧐 미리보기](https://github.com/sooster910/EffectiveTypeScript/tree/main/src/item03)
